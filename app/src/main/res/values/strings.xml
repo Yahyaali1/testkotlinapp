@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testkotlinapp</string>
+    <string name="iSick">0</string>
+    <string name="toastButton">Toast</string>
+    <string name="countButton">Count</string>
+    <string name="randButton">Random</string>
+    <string name="textlabel">The value of the random number is between 0 and %1d</string>
+</resources>
